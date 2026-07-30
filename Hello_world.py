@@ -1,2 +1,2 @@
-print "arroz"
+print("arroz")
 
